@@ -10,6 +10,9 @@ namespace vs_git
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("hola");
+               
         }
     }
 }
